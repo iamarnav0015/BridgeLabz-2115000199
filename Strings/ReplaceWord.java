@@ -1,4 +1,3 @@
-package Strings;
 
 public class ReplaceWord {
     public static String replaceWord(String sentence, String target, String replacement) {
@@ -13,5 +12,4 @@ public class ReplaceWord {
         System.out.println("Modified Sentence: " + replaceWord(sentence, target, replacement));
     }
 }
-
 

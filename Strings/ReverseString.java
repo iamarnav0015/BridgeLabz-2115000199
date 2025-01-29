@@ -1,4 +1,4 @@
-package Strings;
+import java.util.Scanner;
 
 public class ReverseString {
     public static String reverseString(String input) {
@@ -8,5 +8,21 @@ public class ReverseString {
         }
         return reversed.toString();
     }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Get user input
+        System.out.print("Enter a string to reverse: ");
+        String input = scanner.nextLine();
+
+        // Reverse the string and display the result
+        String reversedString = reverseString(input);
+        System.out.println("Reversed string: " + reversedString);
+
+        scanner.close();
+    }
 }
+
+
 
