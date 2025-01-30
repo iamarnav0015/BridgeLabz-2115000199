@@ -1,35 +1,17 @@
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class RemoveDuplicates {
     public static String removeDuplicates(String input) {
-        HashSet<Character> seen = new HashSet<>();
-        StringBuilder result = new StringBuilder();
-
-        for (char c : input.toCharArray()) {
-            if (!seen.contains(c)) {
-                seen.add(c);
-                result.append(c);
-            }
+        String result="";
+        for(char c:input.toCharArray()) {
+            if(result.indexOf(c)==-1)result+=c;
         }
-
-        return result.toString();
+        return result;
     }
-
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // Get user input
-        System.out.print("Enter a string: ");
-        String input = scanner.nextLine();
-
-        // Remove duplicates and display the result
-        String result = removeDuplicates(input);
-        System.out.println("String after removing duplicates: " + result);
-
-        scanner.close();
+        Scanner scanner=new Scanner(System.in);
+        System.out.print("Enter a string:");
+        String input=scanner.nextLine();
+        System.out.println("String after removing duplicates:"+removeDuplicates(input));
     }
 }
-
-
-
