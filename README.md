@@ -1,4 +1,4 @@
-*BridgeLabz_2115000199*
+*BridgeLabz_2115000667*
 
 # *My Java Learning Journey*
 
@@ -166,4 +166,47 @@
 🔹 Create a class with a final variable and a final method.  
 🔹 Show how the instanceof operator works with inheritance.  
 🔹 Write a program to implement method overriding and check it using instanceof.  
-🔹 Solve a lab exercise that combines class, objects, and static/final concepts.
+🔹 Solve a lab exercise that combines class, objects, and static/final concepts.  
+
+---
+
+## *Day-11 🚀*  
+📅 *Date:* 05-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Object Modeling*  
+✔ *Class Diagram*  
+✔ *Object Diagrams*  
+✔ *Sequence Diagrams*  
+✔ *Objects Relationships* (Aggregation, Association, Composition)  
+
+### *Practice Problems:*  
+#### *Problem 1: School Results Application*  
+📌 *Class Diagram:* Model a school results application using classes like *Student, Subject, and GradeCalculator*.  
+📌 *Object Diagram:* Show the current state of a *Student* object and their associated *Subject* objects.  
+📌 *Sequence Diagram:* Illustrate the process of *grade calculation* when a student requests their grade.  
+
+#### *Problem 2: Grocery Store Bill Generation Application*  
+📌 *Comparison of the Two Scenarios:*  
+
+| Feature | School Results Application | Grocery Store Bill Application |
+|---------|---------------------------|--------------------------------|
+| *Classes* | Student, Subject, GradeCalculator | Customer, Product, BillGenerator |
+| *Relationships* | Aggregation | Composition |
+| *Primary Functionality* | Calculate grade | Generate total bill |
+| *Key Entities* | Students, Subjects, Grades | Customers, Products, Bills |
+
+### *Problems Solved:*  
+✔ *Object Modeling:* Worked on various relationships like *Aggregation, Association, and Composition*, and how objects communicate with each other.  
+
+### *Assisted Problems:*  
+🔹 *Problem 1:* Library and Books (*Aggregation*)  
+🔹 *Problem 2:* Bank and Account Holders (*Association*)  
+🔹 *Problem 3:* Company and Departments (*Composition*)  
+🔹 *Problem 4:* School and Students with Courses (*Association and Aggregation*)  
+🔹 *Problem 5:* University with Faculties and Departments (*Composition and Aggregation*)  
+🔹 *Problem 6:* Hospital, Doctors, and Patients (*Association and Communication*)  
+🔹 *Problem 7:* E-commerce Platform with Orders, Customers, and Products  
+🔹 *Problem 8:* University Management System  
+
+---
