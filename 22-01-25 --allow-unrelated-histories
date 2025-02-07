@@ -1,0 +1,49 @@
+[33mcommit 78aff20543b6876b3cd0d3ccfa211ad4cd08f6c6[m[33m ([m[1;36mHEAD -> [m[1;32mfeatures[m[33m, [m[1;31morigin/features[m[33m)[m
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Thu Feb 6 15:25:46 2025 +0530
+
+    Deleted unwanted files
+
+[33mcommit c86ed45d3f8aebec278f00de9fe38d7ad4d3d80e[m
+Merge: 16edbeb 0cd684a
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Thu Feb 6 15:22:50 2025 +0530
+
+    Merge branch 'features22-01-25' into features
+
+[33mcommit 0cd684af722ff34118fa4a2888f4dbac4c5b7485[m[33m ([m[1;31morigin/features22-01-25[m[33m, [m[1;32mfeatures22-01-25[m[33m)[m
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Thu Feb 6 15:20:48 2025 +0530
+
+    Added hello
+
+[33mcommit 16edbebcea231b84fea23751ff7cdd921cc51d7e[m
+Merge: a7dd81e 95b6945
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Thu Feb 6 15:11:57 2025 +0530
+
+    Merge branch 'features22-01-25' into features
+
+[33mcommit 95b69456e1ed3ea1a0029fe581f97344be9446a2[m
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Wed Jan 22 23:34:17 2025 +0530
+
+    task2
+
+[33mcommit a7dd81eee9d1ce142dc1502810604b58578fb93a[m
+Author: Arnav Saxena <106271501+iamarnav0015@users.noreply.github.com>
+Date:   Wed Jan 22 23:29:50 2025 +0530
+
+    Update README.md
+
+[33mcommit 64c97f06dcb57de520ddc64897e37816b0450a82[m
+Author: Arnav Saxena <106271501+iamarnav0015@users.noreply.github.com>
+Date:   Wed Jan 22 20:24:20 2025 +0530
+
+    Update README.md
+
+[33mcommit 4dde4701aed381399ea744b763254a943f9ec44d[m
+Author: iamarnav0015 <shubhamsaxena2828@gmail.com>
+Date:   Wed Jan 22 19:55:32 2025 +0530
+
+    first commit
