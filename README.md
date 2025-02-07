@@ -210,3 +210,36 @@
 🔹 *Problem 8:* University Management System  
 
 ---
+
+## *Day-12 🚀*  
+📅 *Date:* 07-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Inheritance*  
+✔ *Single Level Inheritance*  
+✔ *Multilevel Inheritance*  
+✔ *Hierarchical Inheritance*  
+✔ *Key Features of Inheritance*  
+✔ *Method Overriding*  
+✔ *Constructor Inheritance in Java*  
+✔ *Polymorphism and Inheritance*  
+✔ *Access Modifiers and Inheritance*  
+
+### *Practice Problems:*  
+#### *Single Inheritance:*  
+📌 *Problem 1:* Library Management with *Books and Authors*  
+📌 *Problem 2:* *Smart Home Devices* and their functionalities  
+
+#### *Multilevel Inheritance:*  
+📌 *Problem 1:* *Online Retail Order Management* system  
+📌 *Problem 2:* *Educational Course Hierarchy* representation  
+
+#### *Hierarchical Inheritance:*  
+📌 *Problem 1:* *Bank Account Types* (Savings, Current, etc.)  
+📌 *Problem 2:* *School System with Different Roles* (Teachers, Students, Staff)  
+
+#### *Hybrid Inheritance:*  
+📌 *Problem 1:* *Restaurant Management System* with Hybrid Inheritance  
+📌 *Problem 2:* *Vehicle Management System* demonstrating Hybrid Inheritance  
+
+---
