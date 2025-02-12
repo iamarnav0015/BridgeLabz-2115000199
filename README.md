@@ -243,3 +243,23 @@
 📌 *Problem 2:* *Vehicle Management System* demonstrating Hybrid Inheritance  
 
 ---
+
+## *Day-13 🚀*  
+📅 *Date:* 10-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Encapsulation*  
+✔ *Interface*  
+✔ *Abstract Classes*  
+✔ *Polymorphism*  
+
+### *Practice Problems:*  
+📌 *Problem 1:* *E-Commerce Platform*  
+📌 *Problem 2:* *Vehicle Rental System*  
+📌 *Problem 3:* *Banking System*  
+📌 *Problem 4:* *Library Management System*  
+📌 *Problem 5:* *Online Food Delivery System*  
+📌 *Problem 6:* *Hospital Patient Management*  
+📌 *Problem 7:* *Ride-Hailing Application*  
+
+---
