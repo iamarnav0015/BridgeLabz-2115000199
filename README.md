@@ -263,3 +263,24 @@
 📌 *Problem 7:* *Ride-Hailing Application*  
 
 ---
+
+## *Day-14 🚀*  
+📅 *Date:* 11-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Data Structure*  
+✔ *Linked List*  
+✔ *Singly Linked List* – A linear data structure where each node points to the next node, and the last node points to NULL.  
+✔ *Doubly Linked List* – A linked list where each node has pointers to both its previous and next nodes, allowing bidirectional traversal.  
+✔ *Circular Linked List* – A linked list where the last node points back to the first node, forming a circular structure.  
+
+### *Practice Problems:*  
+📌 *Problem 1:* *Singly Linked List - Student Record Management*  
+📌 *Problem 2:* *Doubly Linked List - Movie Management System*  
+📌 *Problem 3:* *Circular Linked List - Task Scheduler*  
+📌 *Problem 4:* *Singly Linked List - Inventory Management System*  
+📌 *Problem 5:* *Doubly Linked List - Library Management System*  
+📌 *Problem 6:* *Circular Linked List - Round Robin Scheduling Algorithm*  
+📌 *Problem 7:* *Singly Linked List - Social Media Friend Connections*  
+📌 *Problem 8:* *Doubly Linked List - Undo/Redo Functionality for Text Editor*  
+📌 *Problem 9:* *Circular Linked List - Online Ticket Reservation System*
