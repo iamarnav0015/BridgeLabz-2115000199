@@ -1,0 +1,21 @@
+File Reading in Programming: Concepts, Methods, and Best Practices
+File reading is an essential operation in programming, allowing applications to access, process, and manipulate stored data. Whether working with text files, configuration files, or large datasets, understanding file handling is crucial for efficient software development.
+
+Understanding File Reading
+File reading refers to retrieving data from a file stored on disk and making it available for processing in a program. It is commonly used in applications such as data analysis, logging, configuration management, and document processing.
+
+There are different types of files that can be read:
+
+Text Files (.txt, .csv, .json, .xml): Contain human-readable data.
+Binary Files (.jpg, .pdf, .exe): Store data in machine-readable format.
+Methods of File Reading in Popular Languages
+1. File Reading in Python
+Python provides the open() function to read files:
+
+python
+Copy
+Edit
+with open("example.txt", "r") as file:
+    content = file.read()
+    print(content)
+Here, "r" specifies read mode, and with open() ensures automatic file closure.
