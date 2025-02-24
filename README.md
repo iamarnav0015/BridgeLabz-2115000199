@@ -368,5 +368,113 @@
 📌 *Problem 3:* *Large File Reading Efficiency*  
 📌 *Problem 4:* *Recursive vs Iterative Fibonacci Computation*  
 📌 *Problem 5:* *Comparing Different Data Structures for Searching*  
+  
 
 ---
+
+## *Day-19 🚀*  
+📅 *Date:* 18-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Java Generics*  
+✔ *Introduction to Generics*  
+✔ *Type Parameters*  
+✔ *Generic Classes*  
+✔ *Generic Methods*  
+✔ *Bounded Type Parameters*  
+✔ *Wildcards*  
+
+### *Practice Problems:*  
+📌 *Smart Warehouse Management System*  
+📌 *Dynamic Online Marketplace*  
+📌 *Multi-Level University Course Management System*  
+📌 *Personalized Meal Plan Generator*  
+📌 *AI-Driven Resume Screening System*  
+
+---  
+
+## *Day-20 🚀*  
+📅 *Date:* 19-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Collections*  
+✔ *Overview of Collections Framework*  
+✔ *What is the Collections Framework?*  
+✔ *Hierarchy of Collections Framework*  
+
+### *Practice Problems:*  
+📌 *Reverse a List*  
+📌 *Find Frequency of Elements*  
+📌 *Remove Duplicates While Preserving Order*  
+📌 *Check if Two Sets Are Equal*  
+📌 *Union and Intersection of Two Sets*  
+
+---  
+
+## *Day-21 🚀*  
+📅 *Date:* 20-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Java Streams*  
+✔ *Java I/O Streams*  
+✔ *Types of Streams*  
+
+### *Practice Problems:*  
+📌 *File Handling - Read and Write a Text File*  
+📌 *Buffered Streams - Efficient File Copy*  
+📌 *Read User Input from Console*  
+📌 *Serialization - Save and Retrieve an Object*  
+📌 *ByteArray Stream - Convert Image to ByteArray*  
+
+---  
+
+## *Day-22 🚀*  
+📅 *Date:* 21-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Exceptions*  
+✔ *Types of Exceptions*  
+✔ *Handling Exceptions*  
+✔ *Creating Custom Exceptions*  
+✔ *Extending Exception Class*  
+✔ *Defining Constructors*  
+
+### *Practice Problems:*  
+📌 *Checked Exception (Compile-time Exception)*  
+📌 *Unchecked Exception (Runtime Exception)*  
+📌 *Custom Exception (User-defined Exception)*  
+📌 *Multiple Catch Blocks*  
+📌 *try-with-resources (Auto-closing Resources)*  
+📌 *throw vs. throws (Exception Propagation)*  
+📌 *finally Block Execution*  
+📌 *Bank Transaction System (Checked + Custom Exception)*  
+
+---  
+
+## *Day-23 🚀*  
+📅 *Date:* 22-Feb-2025  
+
+### *Topics Covered:*  
+✔ *Regex & JUnit*  
+✔ *Regex*  
+✔ *MetaCharacters*  
+✔ *Quantifiers*  
+✔ *Introduction to JUnit Framework*  
+✔ *JUnit Annotations*  
+✔ *Writing Test Cases*  
+✔ *Structure of a Test Class*  
+✔ *Assertions*  
+
+### *Practice Problems:*  
+📌 *Email Validation (Detailed)*  
+📌 *Password Strength Validation*  
+📌 *Extract Dates from a String*  
+📌 *Testing String Utility Methods*  
+📌 *Testing List Operations*  
+📌 *Testing Exception Handling*  
+📌 *Testing @BeforeEach and @AfterEach Annotations*  
+📌 *Testing Parameterized Tests*  
+
+---
+
+Let me know if you need any further modifications! 🚀
